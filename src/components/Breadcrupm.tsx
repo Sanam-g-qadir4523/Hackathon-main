@@ -31,7 +31,7 @@ export function BreadcrumbCollapsed() {
         </BreadcrumbItem>
         <BreadcrumbSeparator />
         <BreadcrumbItem>
-          <BreadcrumbPage>Mens</BreadcrumbPage>
+          <BreadcrumbPage>Men</BreadcrumbPage>
         </BreadcrumbItem>
         <BreadcrumbItem>
           <BreadcrumbLink asChild>
